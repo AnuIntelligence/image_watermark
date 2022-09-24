@@ -3,4 +3,4 @@ imutils==0.5.4
 numpy==1.22.2
 opencv_python==4.6.0.66
 Pillow==9.2.0
-skimage==0.0
+scikit-image==0.0
